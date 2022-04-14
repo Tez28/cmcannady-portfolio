@@ -25,7 +25,7 @@ body {
 } */
 
 nav {
-    width: 100%;
+    width: 60%;
     display: flex;
     color: white;
 }
@@ -36,4 +36,20 @@ nav {
     padding-left: 20%;
     font-size: 40px;
     font-weight: bold;
+}
+
+.title {
+    font-size: 80px;
+    color: white;
+}
+
+.message {
+    font-size: 30px;
+    color: white;
+}
+
+.contact {
+    justify-content: center;
+    padding-left: 700px;
+    padding-top: 300px;
 }
